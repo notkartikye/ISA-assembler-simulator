@@ -1,6 +1,6 @@
 # Custom ISA Assembler and Simulator
 
-This project comprises two primary components designed to work together: the assembler (`Project_Assembler.py`) and the ssimulator (`SimpleSimulator.py`). These tools are developed to facilitate the assembly and simulation of programs written for a custom Instruction Set Architecture (ISA) with `matplotlib` visualizations to analyze the processor's registers and memory states.
+This project aims to facilitate the assembly and simulation of programs written for a custom Instruction Set Architecture (ISA) with `matplotlib` visualizations to analyze the processor's registers and memory states.
 
 #### Custom ISA Assembler 
 
